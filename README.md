@@ -1,8 +1,12 @@
 # Flutter Icon Shade
 
+> This package has been deprecated and renamed `flutter_icon_shadow`. Please use that package
+> instead, which has additional features and is more maintained.
+> [Package page](https://pub.dev/packages/flutter_icon_shadow)
+
 Flutter Icon shadow
 
-Forked from [flutter_flutter_icon_shade](https://github.com/chenasraf/flutter_icon_shade) for
+Forked from [icon_shadow](https://github.com/mehrtarh/flutter_icon_shadow) for
 null safety.
 
 ![sample](https://github.com/chenasraf/flutter_icon_shade/blob/master/sample.PNG?raw=true)

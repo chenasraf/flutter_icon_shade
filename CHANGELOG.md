@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [2.0.4]
+
+- Deprecated in favor of "flutter_icon_shadow"
+
 ## [2.0.3]
 
 - Rename component - remove redundant "Widget"

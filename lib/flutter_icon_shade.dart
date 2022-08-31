@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:ui' as ui;
 
+@Deprecated('Please us `flutter_icon_shadow` package instead')
 class IconShade extends StatelessWidget {
   final Icon icon;
   final bool showShadow;
